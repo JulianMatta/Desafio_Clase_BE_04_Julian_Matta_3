@@ -1,11 +1,27 @@
 {
-  "name": "desafio_clase_be_03_julian_matta_4",
+  "name": "desafio_clase_be_03_julian_matta_3",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.3.1",
+    "server": "^1.0.37"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julianoxe234/Desafio_Clase_BE_04_Julian_Matta_3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Julianoxe234/Desafio_Clase_BE_04_Julian_Matta_3/issues"
+  },
+  "homepage": "https://github.com/Julianoxe234/Desafio_Clase_BE_04_Julian_Matta_3#readme",
+  "description": ""
 }
