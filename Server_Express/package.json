@@ -9,11 +9,17 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "node": "^17.3.0",
-    "server": "^1.0.37"
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/node": "^17.0.8",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.4"
   },
-  "engines": {
-    "node": "14.*"
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "engines":{
+    "node": "14.*" 
   }
 }
+
